@@ -9,7 +9,7 @@ module.exports = {
       },
     },
     fontFamily: {
-      Latos: ["Lato, sans-serif"],
+      Lato: ["Lato, sans-serif"],
     },
     container: {
       padding: "1rem",
