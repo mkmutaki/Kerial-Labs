@@ -13,11 +13,12 @@ module.exports = {
     },
     container: {
       padding: "1rem",
-      screens: {
-        lg: "1124px",
-        xl: "1124px",
-        "2xl": "1124px",
-      },
+    },
+    screens: {
+      sm: "350px",
+      lg: "1124px",
+      xl: "1124px",
+      "2xl": "1124px",
     },
   },
   plugins: [],
